@@ -1,59 +1,88 @@
-## Hi there 👋
-
-<!--
-**vinuD-droid/vinuD-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # Hi there 👋, I'm Dheepak Vinu K
 
 ## 💻 Passionate Tech Enthusiast | Aspiring Software Engineer
 
-I enjoy building software, learning new technologies, and solving real-world problems through code.
+I am a passionate technology enthusiast and aspiring software engineer who enjoys building software, solving real-world problems, and continuously learning new technologies. I love developing practical applications and improving my programming skills through hands-on projects.
 
 ---
 
-### 🚀 Tech Stack
+## 🚀 Tech Stack
 
 - 🐍 Python
 - 💾 SQL
+- 🌐 HTML & CSS
 - 🔧 Git & GitHub
 - 📊 Power BI
 - 📈 Excel
 - 🤖 Machine Learning (Learning)
+- 🗄️ SQLite
 
 ---
 
-### 📌 Featured Project
+## 📌 Featured Projects
 
-## SupplyPrescript
+### 📦 SupplyPrescript
 
-A data analytics solution that predicts medicine demand, optimizes inventory levels, and provides insights through interactive dashboards.
+AI-powered supply chain analytics platform that predicts medicine demand, optimizes inventory levels, and provides business insights through interactive dashboards.
+
+**Technologies:** Python • Pandas • NumPy • Matplotlib • Scikit-learn • XGBoost
 
 ---
 
-### 🌱 Currently Learning
+### 📋 Smart Inventory Management System
 
+A Python-based inventory management system designed to manage products, stock levels, sales, and inventory operations efficiently.
+
+**Features**
+- Product Management
+- Inventory Tracking
+- Stock Updates
+- Sales Management
+- Search Products
+
+**Technologies:** Python • SQLite • Git
+
+---
+
+### 🔐 Secure Password Manager
+
+A secure password management application that stores user credentials safely using encrypted storage and generates strong passwords.
+
+**Features**
+- Password Encryption
+- Password Generator
+- Secure Credential Storage
+- Search Passwords
+- Delete Passwords
+
+**Technologies:** Python • SQLite • Cryptography • Tkinter
+
+---
+
+## 🌱 Currently Learning
+
+- Software Engineering
 - Backend Development
 - Data Structures & Algorithms
 - Machine Learning
-- Software Development
+- GitHub Best Practices
 
 ---
 
-### 📫 Connect with Me
+## 🎯 Career Objective
 
-📧 Email: vinukdheepak2004@gmail.com
-
-📍 Kerala, India
+To build reliable, scalable, and user-friendly software solutions while continuously improving my technical skills and contributing to impactful projects.
 
 ---
-⭐ Thanks for visiting my profile!
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with Me
+
+📧 Email: **vinukdheepak2004@gmail.com**
+
+🌍 Location: **Kerala, India**
+
+💼 GitHub: **https://github.com/vinuD-droid**
+
+---
+
+⭐ *"Code. Learn. Build. Repeat."*
