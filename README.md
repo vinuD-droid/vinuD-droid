@@ -10,7 +10,6 @@ I am a passionate technology enthusiast and aspiring software engineer who enjoy
 
 - 🐍 Python
 - 💾 SQL
-- 🌐 HTML & CSS
 - 🔧 Git & GitHub
 - 📊 Power BI
 - 📈 Excel
